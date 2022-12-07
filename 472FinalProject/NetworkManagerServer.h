@@ -2,8 +2,6 @@
 #pragma warning(disable:4996)
 #undef UNICODE
 
-#pragma once
-
 #include <string>
 #include <WinSock2.h>
 #include <iostream>
